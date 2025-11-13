@@ -1,0 +1,18 @@
+:root {
+  /* Sage Green for primary */
+  --bs-primary: #728c69 !important; 
+  
+  /* Soft Gold for secondary */
+  --bs-secondary: #c9b19d !important; 
+  
+  /* Light background */
+  --bs-light: #f9f7f5 !important;
+  
+  /* Dark color for contrast */
+  --bs-dark: #33423a;
+}
+
+/* Ensure white text on primary buttons */
+.btn-primary {
+  color: white !important; 
+}
